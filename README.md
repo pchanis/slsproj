@@ -5,3 +5,7 @@ Plugin: 4.0.2
 SDK: 2.3.1
 Components: 3.1.2
 v12.18.3
+{
+    "statusCode": 200,
+    "body": "{\n  \"message\": \"Go Serverless v1.0! Your function executed successfully!\",\n  \"input\": {}\n}"
+}
